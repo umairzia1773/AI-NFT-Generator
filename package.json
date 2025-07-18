@@ -1,0 +1,17 @@
+{
+  "name": "ai-nft-game",
+  "version": "1.0.0",
+  "description": "AI-generated NFT Game Characters with Ownership History",
+  "scripts": {
+    "test": "npx hardhat test",
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^6.0.0",
+    "hardhat": "^2.20.0",
+    "ipfs-http-client": "^59.0.0",
+    "lite-server": "^2.6.1"
+  }
+}
