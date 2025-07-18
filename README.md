@@ -17,17 +17,11 @@ Welcome to the **AI NFT Game** — a futuristic project combining **AI-generated
 
 ---
 
-## 📸 Preview
-
-<img src="images/Aether_NFT.png" width="300" alt="NFT Preview" />
-
----
-
 ## 🧱 Tech Stack
 
 | Layer       | Tech                               |
 |-------------|------------------------------------|
-| Smart Contract Solidity, OpenZeppelin ERC-721    |
+| Smart Contract| Solidity, OpenZeppelin ERC-721    |
 | Web3 SDK    | Ethers.js, MetaMask, Hardhat       |
 | AI/Backend  | Python, Flask, PIL, Web3.Storage   |
 | Storage     | IPFS (via Web3.Storage API)        |
